@@ -1,5 +1,5 @@
 # Modified-MINIST
-machine learning kaggle competition
+machine learning kaggle competition: https://www.kaggle.com/c/comp551-modified-mnist
 
 We added the modified our code so that it downloads the data files from a hosted space,
 http://cs.mcgill.ca/~ksinha4/datasets/kaggle/, and we have tested it and it ran accordingly.
@@ -13,9 +13,9 @@ All our code are in the module folder.
 All our predictions are in csv inside the output folder.
 
 ### Development Status:
-* A baseline linear learner of SVM using sklearn library: Done
-* a fully connected feed forward neural network trained by backpropagation, where the architecture of the network (number of nodes, layers, learning rate, etc.) are determined by cross-validation: Done
-* CNN using pytorch library: Done
+* A baseline linear learner of SVM implemented using sklearn library: Done
+* A fully connected feed forward neural network trained by backpropagation, where the architecture of the network (number of nodes, layers, learning rate, etc.) are determined by cross-validation: Done
+* CNN implemented using pytorch library: Done
 
 ### Members(Github names):
 * DerekYu177
