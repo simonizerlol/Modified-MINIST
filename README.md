@@ -1,9 +1,6 @@
 # Modified-MINIST
 machine learning kaggle competition: https://www.kaggle.com/c/comp551-modified-mnist
 
-We added the modified our code so that it downloads the data files from a hosted space,
-http://cs.mcgill.ca/~ksinha4/datasets/kaggle/, and we have tested it and it ran accordingly.
-
 We have put our code all in jupyter notebook files and ran them to save you the time from running it.
 
 The original set-up was to put the 3 given data sets(train_x.csv, train_y.csv, and test_x.csv)
