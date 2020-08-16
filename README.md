@@ -1,6 +1,6 @@
-# Modified-MINIST
+# Modified-MNIST
 machine learning kaggle competition: https://www.kaggle.com/c/comp551-modified-mnist
-![alt text](https://github.com/simonizerlol/Modified-MINIST/blob/master/Screen%20Shot%202020-08-16%20at%201.31.36%20PM.png)
+![alt text](https://github.com/simonizerlol/Modified-MNIST/blob/master/Screen%20Shot%202020-08-16%20at%201.31.36%20PM.png)
 We have put our code all in jupyter notebook files and ran them to save you the time from running it.
 
 The original set-up was to put the 3 given data sets(train_x.csv, train_y.csv, and test_x.csv)
